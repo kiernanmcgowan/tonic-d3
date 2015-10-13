@@ -6,7 +6,7 @@ function wrap(d3Fn, options) {
   var d3Location = 'https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js';
   options = options || {};
   options.width = options.width || 500;
-  options.height = options.height || 500;
+  options.height = options.height || 450;
   var style = options.style || '';
   return function(d3Args) {
     return '<center>' +
