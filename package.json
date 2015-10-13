@@ -1,0 +1,11 @@
+{
+  "name": "tonic-d3",
+  "version": "1.0.0",
+  "description": "A d3 wrapper for tonic",
+  "main": "index.js",
+  "scripts": {
+
+  },
+  "author": "kiernan",
+  "license": "MIT"
+}
