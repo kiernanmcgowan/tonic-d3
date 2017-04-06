@@ -1,6 +1,8 @@
 tonic-d3
 ===
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kiernanmcgowan/tonic-d3.svg)](https://greenkeeper.io/)
+
 A micromodule to make it easier to work with d3 inside of a tonic notebook.
 
 ```
